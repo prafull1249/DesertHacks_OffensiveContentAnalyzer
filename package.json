@@ -1,0 +1,13 @@
+{
+  "name": "hackharass",
+  "main": "server.js",
+  "version": "1.0.1",
+  "dependencies": {
+    "body-parser": "~1.4.2",
+    "express": "~4.5.1",
+    "jsonfile": "^2.4.0",
+    "method-override": "~2.0.2",
+    "zerorpc": "~0.9.6",
+    "watson-developer-cloud": "~2.21.1"
+  }
+}
