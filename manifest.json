@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+
+   "name": "Harassment Analyser",
+  "description": "Desert Hacks",
+  "version": "1.0",
+
+
+  "background": {
+    "scripts": ["background.js"]
+    //"persistent": false
+    
+  },
+
+
+  "permissions" : [
+  		"contextMenus"
+  		
+  ],
+
+  "icons" : {
+  	"64" : "icon.png",
+  	"32" : "icon.png",
+  	"16" : "icon.png",
+  	"128" : "icon.png"
+  	
+  }
+
+
+
+
+}
